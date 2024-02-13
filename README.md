@@ -1,6 +1,6 @@
 <div align="Center">
 <h1>avail-apps</h1>
-<h3>Block Explorer & Apps for the Avail blockchain</h3>
+<h3>Block Explorer & Apps for the Avail blockchain v2</h3>
 </div>
 
 <br>
