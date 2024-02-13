@@ -2,7 +2,7 @@
 title: Outdated chain types
 labels: ['ci']
 ---
-
+"read"
 cc @polkadot-js/notifications
 
 Some configured chains have outdated types and is determined to problematic as an available chain.
